@@ -1,5 +1,5 @@
 ### Hi there! I'm Anul 👋
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.independence.edu%2Fblog%2Fthe-benefits-of-learning-computer-programming&psig=AOvVaw06OL3cvMo4N0WOPOaWWpg3&ust=1613917989830000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiY3JjX-O4CFQAAAAAdAAAAABAc)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.independence.edu%2Fblog%2Fthe-benefits-of-learning-computer-programming&psig=AOvVaw06OL3cvMo4N0WOPOaWWpg3&ust=1613917989830000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiY3JjX-O4CFQAAAAAdAAAAABAc">
 
 
 <!--
